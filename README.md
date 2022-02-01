@@ -19,3 +19,4 @@
 -  nice and clean ui
 
 ## video
+https://user-images.githubusercontent.com/68750404/152038512-b13862bc-49e3-44d9-8ebf-bb2e70a6f37f.mp4

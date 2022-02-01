@@ -13,8 +13,8 @@
 -  **Text Editor** : visual studio
 
 ## Features :
-- Stipe Integration
-- Qr code generate for share it with guests for opening website
+- Stripe Integration
+- Qr code generate for share it with guests for open website
 - Admin panel for groom to see all guests donate and statistics
 -  nice and clean ui
 

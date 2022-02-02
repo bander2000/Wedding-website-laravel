@@ -1,7 +1,7 @@
 # Widding website - Laravel 
 
 ## Description :
- It is custome website for groom and bride used for give gift money  and leave nice comment for grooms (online ) with out need to come for widding because covid 19 
+It is a custom website for groom and bride used for giving gift money and leave nice comments for grooms (online ) without need to come for a wedding because covid 19
 
 
 ## Technologies:
